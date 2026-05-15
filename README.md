@@ -25,7 +25,7 @@ Python, Java, Bash, SQL
 ## Experience
 - **System Administrator** · Salem Leasing *(Feb 2023 – Present)*: Manages and maintains Linux/Windows server infrastructure in a VMware vCenter environment, owns full IAM lifecycle, architects VPN infrastructure, builds observability pipelines, administers EDR, and reduces operational toil through Bash/Cron automation.
 ## Projects
-- **AWS Cloud Infrastructure Lab** *(March 2026 – Present)*: Deploying and experimenting with core AWS services (EC2, S3, VPC, IAM, CloudWatch) and practicing infrastructure-as-code with Terraform for repeatable, auditable cloud deployments.
+- **AWS ECS Platform** *(May 2026)*: A cloud native job application tracker built to demonstrate production pattern AWS infrastructure. The project deploys a containerized Node.js REST API backed by PostgreSQL, running on ECS Fargate behind an Application Load Balancer, with fully automated deployments via GitHub Actions.
 - **CI/CD Pipeline Automation**: Built automated deployment pipelines using GitLab CI/CD, automating build, test, and deployment processes to improve release reliability and reduce manual overhead.
 - **Containerized Application Development**: Built and deployed applications using Docker to improve portability and deployment consistency across environments.
 - **Disaster Recovery Robot Simulation**: Designed an autonomous navigation system emphasizing fault tolerance, redundant execution paths, and graceful degradation — mirroring high-availability cloud infrastructure design principles.
