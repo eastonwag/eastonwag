@@ -3,23 +3,23 @@
 I'm Easton Wagoner, a System Administrator with 3+ years of enterprise infrastructure experience, actively transitioning into **Cloud Engineering** and **DevOps**. With a B.S. in **Computer Science** from Western Governors University, I specialize in Linux systems, infrastructure automation, and secure, scalable system design. My goal is to build resilient, well-governed cloud infrastructure — combining my hands-on sysadmin foundation with modern cloud and DevOps practices.
 ## Skills
 ### Cloud & Infrastructure
-AWS (EC2, S3, VPC, IAM, CloudWatch), Linux Server Administration, Windows Server, VMware vCenter, Virtualization, Terraform (Infrastructure-as-Code), Patch Management, Configuration Hardening, High Availability Design
+AWS (EC2, S3, VPC, IAM, CloudWatch), ECS Fargate, RDS, ALB, ECR, SSM Parameter Store, Linux Server Administration, Windows Server, VMware vCenter, Virtualization, Terraform (Infrastructure-as-Code), Patch Management, Configuration Hardening, High Availability Design
 ### Containerization & Orchestration
 Docker, Kubernetes, Container Deployment, Application Portability
 ### DevOps & CI/CD
-GitLab CI/CD, GitHub, CI/CD Pipeline Design & Automation, Build/Test/Deploy Automation, Configuration Management
+GitLab CI/CD, GitHub, GitHub Actions, ODIC Authentication, CI/CD Pipeline Design & Automation, Build/Test/Deploy Automation, Configuration Management
 ### Networking
 VPN Architecture & Administration, TCP/IP, DNS, Network Troubleshooting, Cloud Networking (VPC, Subnets, Routing)
 ### Automation & Scripting
 Bash, Python, Cron Automation, Process Automation, System Maintenance Automation, Operational Toil Reduction
 ### Security & IAM
-Role-Based Access Control (RBAC), IAM Lifecycle Management, Least-Privilege Enforcement, Security Hardening, Endpoint Detection & Response (EDR), Threat Remediation, Log Analysis
+Role-Based Access Control (RBAC), Secrets Management (SSM), ODIC Federated Identity, IAM Lifecycle Management, Least-Privilege Enforcement, Security Hardening, Endpoint Detection & Response (EDR), Threat Remediation, Log Analysis
 ### Reliability Engineering
 Root Cause Analysis, Fault Tolerance, Redundancy Design, Self-Healing Systems, Incident Management, SRE Principles, Observability & Alerting Pipelines
 ### Development
 Python, Java, Bash, SQL
 ## Certifications
-- 🔐 **CompTIA Security+** *(In Progress)* — Security fundamentals, threat mitigation, and infrastructure hardening
+- 🔐 **AWS Certified Solutions Architect – Associate** *(In Progress)*
 - 📋 **ITIL 4 Foundation** — IT service management, service value system, and four dimensions model *(June 2025)*
 - 🐧 **Linux Essentials (LPI)** — Core Linux concepts, command-line usage, file system navigation, and scripting *(March 2026)*
 ## Experience
